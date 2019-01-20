@@ -184,7 +184,7 @@ servers... and we expect fq\_codel to improve also.
 Code for other operating systems
 --------------------------------
 
-A port of Codel exists for BSD and is available in pfsense and
+A port of Codel exists for BSD and is available in [pfSense](https://www.pfsense.org) and
 elsewhere.
 
 Known issues
